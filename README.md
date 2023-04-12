@@ -2,6 +2,9 @@
 
 ![image](https://user-images.githubusercontent.com/83934299/231329919-3955e93a-cde4-48e1-8159-ed7cdf9faaba.png)
 
+[view more tomfoolery](https://github.com/The-Botting-Cartel/kickgen-public/blob/main/screenshots.md)
+
+
 ## TLDR: We botted kick a sunday night and caused a bit of panic in the community. We reached out to kick support to help security become better on kick so that a bad actor cant raid the site. They ended up ghosting us and we have no idea how to raise awareness now. If kick staff dont contact us in 48 hours, we are going to just release the raid tool we made because they simply don't care.
 
 <!-- TOC -->
