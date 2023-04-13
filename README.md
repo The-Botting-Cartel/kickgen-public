@@ -4,9 +4,9 @@
 
 [view more tomfoolery](https://github.com/The-Botting-Cartel/kickgen-public/blob/main/screenshots.md)
 
-[discord](https://discord.gg/BUuMFpNX)
+[discord](https://discord.gg/ZSmwQ3VvaG)
 
 We are announcing on Discord each time we bot kick; if you see someone else doing it and we haven't mentioned it, it's not us.
 
 ## Due to us realizing our plan was kinda fucked
-We're selling accounts and access to the raider. [(for more info)](https://discord.gg/BUuMFpNX)
+We're selling accounts and access to the raider. [(for more info)](https://discord.gg/ZSmwQ3VvaG)
